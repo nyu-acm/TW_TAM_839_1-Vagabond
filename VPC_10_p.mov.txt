@@ -1,0 +1,73 @@
+General
+Complete name                            : E:\Mona_PowerMac_and_VPC\VPC\VPC_10\data\VPC_10_p.mov
+Format                                   : MPEG-4
+Format profile                           : QuickTime
+Codec ID                                 : qt   2005.03 (qt  )
+File size                                : 21.2 GiB
+Duration                                 : 13 min 26 s
+Overall bit rate                         : 225 Mb/s
+Frame rate                               : 29.970 FPS
+Encoded date                             : 2014-11-18 00:24:01 UTC
+Tagged date                              : 2014-11-18 00:37:28 UTC
+Writing library                          : Apple QuickTime
+
+Video
+ID                                       : 1
+Format                                   : YUV
+Codec ID                                 : v210
+Codec ID/Hint                            : AJA Video Systems Xena
+Duration                                 : 13 min 26 s
+Bit rate mode                            : Constant
+Bit rate                                 : 224 Mb/s
+Width                                    : 720 pixels
+Clean aperture width                     : 720 pixels
+Height                                   : 486 pixels
+Clean aperture height                    : 486 pixels
+Display aspect ratio                     : 4:3
+Clean aperture display aspect ratio      : 4:3
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 (30000/1001) FPS
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:2
+Bit depth                                : 10 bits
+Compression mode                         : Lossless
+Bits/(Pixel*Frame)                       : 21.333
+Stream size                              : 21.0 GiB (99%)
+Language                                 : English
+Encoded date                             : 2014-11-18 00:24:01 UTC
+Tagged date                              : 2014-11-18 00:37:28 UTC
+
+Audio
+ID                                       : 2
+Format                                   : PCM
+Format settings                          : Little / Signed
+Codec ID                                 : sowt
+Duration                                 : 13 min 26 s
+Source duration                          : 13 min 26 s
+Bit rate mode                            : Constant
+Bit rate                                 : 1 536 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Bit depth                                : 16 bits
+Stream size                              : 148 MiB (1%)
+Source stream size                       : 148 MiB (1%)
+Language                                 : English
+Encoded date                             : 2014-11-18 00:24:01 UTC
+Tagged date                              : 2014-11-18 00:37:28 UTC
+
+Other
+ID                                       : 3
+Type                                     : Time code
+Format                                   : QuickTime TC
+Duration                                 : 13 min 26 s
+Frame rate                               : 29.970 (30000/1001) FPS
+Time code of first frame                 : 00:03:11:02
+Time code of last frame                  : 00:16:36:28
+Time code, stripped                      : Yes
+Title                                    : time
+Language                                 : English
+Encoded date                             : 2014-11-18 00:24:01 UTC
+Tagged date                              : 2014-11-18 00:37:28 UTC
+

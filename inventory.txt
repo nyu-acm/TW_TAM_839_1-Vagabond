@@ -1,0 +1,327 @@
+E:\Mona_PowerMac_and_VPC\VPC
+E:\Mona_PowerMac_and_VPC\VPC\.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_10
+E:\Mona_PowerMac_and_VPC\VPC\VPC_10\.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_10\bag-info.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_10\bagit.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_10\data
+E:\Mona_PowerMac_and_VPC\VPC\VPC_10\data\.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_10\data\._.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_10\data\._VPC_10_p.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_10\data\VPC_10_m.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_10\data\VPC_10_p.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_10\data\access
+E:\Mona_PowerMac_and_VPC\VPC\VPC_10\data\access\.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_10\data\access\._.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_10\data\access\VPC_10_a.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_10\manifest-md5.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_10\tagmanifest-md5.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_11
+E:\Mona_PowerMac_and_VPC\VPC\VPC_11\.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_11\bag-info.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_11\bagit.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_11\data
+E:\Mona_PowerMac_and_VPC\VPC\VPC_11\data\.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_11\data\._.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_11\data\._VPC_11_p.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_11\data\VPC_11_m.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_11\data\VPC_11_p.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_11\data\access
+E:\Mona_PowerMac_and_VPC\VPC\VPC_11\data\access\.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_11\data\access\VPC_11_a.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_11\manifest-md5.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_11\tagmanifest-md5.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_12
+E:\Mona_PowerMac_and_VPC\VPC\VPC_12\.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_12\bag-info.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_12\bagit.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_12\data
+E:\Mona_PowerMac_and_VPC\VPC\VPC_12\data\.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_12\data\._.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_12\data\._VPC_12_p.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_12\data\VPC_12_m.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_12\data\VPC_12_p.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_12\data\access
+E:\Mona_PowerMac_and_VPC\VPC\VPC_12\data\access\.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_12\data\access\VPC_12_a.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_12\manifest-md5.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_12\tagmanifest-md5.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_13
+E:\Mona_PowerMac_and_VPC\VPC\VPC_13\.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_13\bag-info.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_13\bagit.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_13\data
+E:\Mona_PowerMac_and_VPC\VPC\VPC_13\data\.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_13\data\._.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_13\data\._VPC_13_p.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_13\data\VPC_13_m.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_13\data\VPC_13_p.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_13\data\access
+E:\Mona_PowerMac_and_VPC\VPC\VPC_13\data\access\.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_13\data\access\VPC_13_a.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_13\manifest-md5.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_13\tagmanifest-md5.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_14
+E:\Mona_PowerMac_and_VPC\VPC\VPC_14\.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_14\bag-info.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_14\bagit.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_14\data
+E:\Mona_PowerMac_and_VPC\VPC\VPC_14\data\.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_14\data\._.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_14\data\._VPC_14_p.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_14\data\VPC_14_m.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_14\data\VPC_14_p.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_14\data\access
+E:\Mona_PowerMac_and_VPC\VPC\VPC_14\data\access\.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_14\data\access\VPC_14_a.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_14\manifest-md5.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_14\tagmanifest-md5.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\._.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_01
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_01\.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_01\bag-info.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_01\bagit.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_01\data
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_01\data\.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_01\data\._.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_01\data\._VPC_01_p.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_01\data\Access
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_01\data\Access\.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_01\data\Access\._VPC_01_a.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_01\data\Access\VPC_01_a.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_01\data\VPC_01_m.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_01\data\VPC_01_p.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_01\manifest-md5.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_01\tagmanifest-md5.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_02
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_02\.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_02\bag-info.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_02\bagit.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_02\data
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_02\data\.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_02\data\._.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_02\data\._VPC_02_p.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_02\data\Access
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_02\data\Access\.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_02\data\Access\._.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_02\data\Access\._VPC_02_a.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_02\data\Access\VPC_02_a.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_02\data\VPC_02_m.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_02\data\VPC_02_p.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_02\manifest-md5.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_02\tagmanifest-md5.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_03
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_03\.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_03\bag-info.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_03\bagit.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_03\data
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_03\data\.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_03\data\._.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_03\data\._VPC_03_p.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_03\data\Access
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_03\data\Access\VPC_03_a.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_03\data\VPC_03_m.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_03\data\VPC_03_p.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_03\manifest-md5.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_03\tagmanifest-md5.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_04
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_04\.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_04\bag-info.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_04\bagit.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_04\data
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_04\data\.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_04\data\._.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_04\data\._VPC_04_p.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_04\data\Access
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_04\data\Access\VPC_04_a.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_04\data\VPC_04_m.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_04\data\VPC_04_p.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_04\manifest-md5.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_04\tagmanifest-md5.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_05
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_05\.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_05\bag-info.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_05\bagit.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_05\data
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_05\data\.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_05\data\._.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_05\data\._VPC_05_p.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_05\data\Access
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_05\data\Access\VPC_05_a.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_05\data\VPC_05_m.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_05\data\VPC_05_p.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_05\manifest-md5.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_05\tagmanifest-md5.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_06
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_06\.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_06\bag-info.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_06\bagit.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_06\data
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_06\data\.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_06\data\._.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_06\data\._VPC_06_p.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_06\data\Access
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_06\data\Access\VPC_06_a.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_06\data\VPC_06_m.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_06\data\VPC_06_p.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_06\manifest-md5.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_06\tagmanifest-md5.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_07
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_07\.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_07\bag-info.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_07\bagit.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_07\data
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_07\data\._VPC_07_p.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_07\data\Access
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_07\data\Access\VPC_07_a.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_07\data\VPC_07_m.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_07\data\VPC_07_p.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_07\manifest-md5.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_07\tagmanifest-md5.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_08
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_08\.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_08\bag-info.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_08\bagit.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_08\data
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_08\data\.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_08\data\._.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_08\data\._VPC_08_a.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_08\data\._VPC_08_p.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_08\data\Access
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_08\data\Access\.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_08\data\Access\._.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_08\data\Access\._VPC_08_m.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_08\data\Access\VPC_08_a.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_08\data\VPC_08_m.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_08\data\VPC_08_p.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_08\manifest-md5.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_08\tagmanifest-md5.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_09
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_09\.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_09\bag-info.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_09\bagit.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_09\data
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_09\data\.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_09\data\._.DS_Store
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_09\data\._VPC_09_p.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_09\data\Access
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_09\data\Access\VPC_09_m.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_09\data\VPC_09_a.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_09\data\VPC_09_p.mov
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_09\manifest-md5.txt
+E:\Mona_PowerMac_and_VPC\VPC\VPC_Collection\VPC_09\tagmanifest-md5.txt
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\.DS_Store
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\READ_ME_VP_trip_DV_transfers.rtf
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\VP_trip_6_117
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\VP_trip_6_117\VP_trip_6_117.dv
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\VP_trip_7_119
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\VP_trip_7_119\VP_trip_7_119.dv
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\.DS_Store
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\.localized
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\.localized\Dutch.strings
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\.localized\English.strings
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\.localized\French.strings
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\.localized\German.strings
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\.localized\Italian.strings
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\.localized\Japanese.strings
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\.localized\Spanish.strings
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\.localized\da.strings
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\.localized\de.strings
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\.localized\en.strings
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\.localized\es.strings
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\.localized\fi.strings
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\.localized\fr.strings
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\.localized\it.strings
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\.localized\ja.strings
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\.localized\ko.strings
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\.localized\nb.strings
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\.localized\nl.strings
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\.localized\no.strings
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\.localized\pl.strings
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\.localized\pt-PT.strings
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\.localized\pt_PT.strings
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\.localized\ru.strings
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\.localized\sv.strings
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\.localized\zh-Hans.strings
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\.localized\zh-Hant.strings
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\.localized\zh_CN.strings
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\.localized\zh_TW.strings
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_reunion_1988_110
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_reunion_1988_110\.DS_Store
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_reunion_1988_110\VP_reunion_1988_110.dv
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_reunion_1988_110\iMovie Cache
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_reunion_1988_110\iMovie Cache\Cache.mov
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_reunion_1988_110\iMovie Cache\Cache.plist
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_reunion_1988_110\iMovie Thumbnails
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_reunion_1988_110\iMovie Thumbnails\clip-135-02-05 05;27;15
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_reunion_1988_110\iMovie Thumbnails\iMovie Cache
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_reunion_1988_110\iMovie Thumbnails\iMovie Cache\Cache.mov
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_reunion_1988_110\iMovie Thumbnails\iMovie Cache\Cache.plist
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_1_122_part1
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_1_122_part1\.DS_Store
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_1_122_part1\VP_trip_1_122_part1.dv
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_1_122_part1\iMovie Cache
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_1_122_part1\iMovie Cache\Cache.mov
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_1_122_part1\iMovie Cache\Cache.plist
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_1_122_part1\iMovie Thumbnails
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_1_122_part1\iMovie Thumbnails\iMovie Cache
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_1_122_part1\iMovie Thumbnails\iMovie Cache\Cache.mov
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_1_122_part1\iMovie Thumbnails\iMovie Cache\Cache.plist
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_1_122_part2_test
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_1_122_part2_test\.DS_Store
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_1_122_part2_test\VP_trip_1_122_part2_test.dv
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_1_122_part2_test\iMovie Cache
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_1_122_part2_test\iMovie Cache\Cache.mov
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_1_122_part2_test\iMovie Cache\Cache.plist
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_1_122_part2_test\iMovie Thumbnails
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_1_122_part2_test\iMovie Thumbnails\clip-135-02-05 05;27;15
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_1_122_part2_test\iMovie Thumbnails\iMovie Cache
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_1_122_part2_test\iMovie Thumbnails\iMovie Cache\Cache.mov
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_1_122_part2_test\iMovie Thumbnails\iMovie Cache\Cache.plist
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_2_121
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_2_121\.DS_Store
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_2_121\VP_trip2_121.dv
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_2_121\iMovie Cache
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_2_121\iMovie Cache\Cache.mov
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_2_121\iMovie Cache\Cache.plist
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_2_121\iMovie Thumbnails
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_2_121\iMovie Thumbnails\iMovie Cache
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_2_121\iMovie Thumbnails\iMovie Cache\Cache.mov
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_2_121\iMovie Thumbnails\iMovie Cache\Cache.plist
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_3_124
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_3_124\.DS_Store
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_3_124\VP_trip_3_124_part1.dv
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_3_124\iMovie Cache
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_3_124\iMovie Cache\Cache.mov
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_3_124\iMovie Cache\Cache.plist
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_3_124\iMovie Thumbnails
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_3_124\iMovie Thumbnails\clip-135-02-05 05;27;15
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_3_124\iMovie Thumbnails\iMovie Cache
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_3_124\iMovie Thumbnails\iMovie Cache\Cache.mov
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_3_124\iMovie Thumbnails\iMovie Cache\Cache.plist
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_4_123
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_4_123\.DS_Store
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_4_123\VP_trip_4_123.dv
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_4_123\iMovie Cache
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_4_123\iMovie Cache\Cache.mov
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_4_123\iMovie Cache\Cache.plist
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_4_123\iMovie Thumbnails
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_4_123\iMovie Thumbnails\clip-135-02-05 05;27;15
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_4_123\iMovie Thumbnails\iMovie Cache
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_4_123\iMovie Thumbnails\iMovie Cache\Cache.mov
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_4_123\iMovie Thumbnails\iMovie Cache\Cache.plist
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_5_118
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_5_118\.DS_Store
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_5_118\VP_trip_5_118.dv
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_5_118\iMovie Cache
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_5_118\iMovie Cache\Cache.mov
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_5_118\iMovie Cache\Cache.plist
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_5_118\iMovie Thumbnails
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_5_118\iMovie Thumbnails\clip-135-02-05 05;27;15
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_5_118\iMovie Thumbnails\iMovie Cache
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_5_118\iMovie Thumbnails\iMovie Cache\Cache.mov
+E:\Mona_PowerMac_and_VPC\VP_trip_DV_transfers\iMovie Events.localized\VP_trip_5_118\iMovie Thumbnails\iMovie Cache\Cache.plist
